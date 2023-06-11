@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "@freecodecamp/example": "1.2.13"
+  }
+}
